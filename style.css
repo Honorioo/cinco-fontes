@@ -1,0 +1,36 @@
+h3 {
+    font-style: italic;
+    color: rgb(163, 46, 0)
+    }
+
+h5 {
+    color: rgb(163, 46, 0)
+}
+
+p1 {
+    font-family: 'Crete Round', serif;
+    color: green;
+}
+
+p2 {
+    font-family: 'Yantramanav', sans-serif;
+    color: green;
+   
+}
+
+p3 {
+    font-family: 'Fira Code', monospace;
+    color: green;
+
+}
+
+p4 {
+    font-family: 'Oleo Script', cursive;
+    color: green;
+
+}
+
+p5 {
+    font-family: 'Satisfy', cursive;
+    color: green;
+}
